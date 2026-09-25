@@ -1,0 +1,16 @@
+# pip install numpy==2.4.2  -> only 2.4.2 version will come
+# # pip install numpy<=2.4.2  -> greater than 2.4.2 version will come
+# # pip install numpy>=2.4.2  -> 2.4.2 or older version will come
+# pip install joblib
+# pip install scikit-learn
+
+# #python -m nareshit 
+# #python -m venv envName
+
+
+
+joblib
+numpy
+scikit-learn
+streamlit
+pandas
